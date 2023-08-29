@@ -1,0 +1,24 @@
+---
+title: "Resources on LLM and Generative AI"
+author: "Khameel B. Mustapha"
+date: "8/29/2023"
+output: pdf_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+The primary objective of this page is to compile resources (**blogs**, **research articles** and **courses** related to **LLM** and **Generative AI**). 
+
+# Blogs and General Articles
+
+ - [Generative AI and intellectual property](https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property)
+
+# Research Articles
+
+
+# Courses
+
