@@ -16,6 +16,7 @@ The primary objective of this page is to compile resources (**blogs**, **researc
 # Blogs and General Articles
 
  - [Generative AI and intellectual property](https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property)
+ - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 # Research Articles
 
