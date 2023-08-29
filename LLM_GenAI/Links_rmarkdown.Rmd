@@ -2,7 +2,7 @@
 title: "Resources on LLM and Generative AI"
 author: "Khameel B. Mustapha"
 date: "8/29/2023"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include = FALSE}
