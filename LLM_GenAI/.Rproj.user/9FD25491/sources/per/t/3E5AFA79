@@ -1,9 +1,9 @@
 {
     "id": "3E5AFA79",
-    "path": "C:/Users/user/OneDrive - Nanyang Technological University/MajorFiles/MyResearch/MyGitHub_Directories/GenerativeAI_LLM/LLM_GenAI/Links_rmarkdown.Rmd",
+    "path": "C:/Users/user/OneDrive - Nanyang Technological University/MajorFiles/MyResearch/MyGitHub_Directories/GenerativeAI_LLM/LLM-GenAI-Articles-Blogs-References/LLM_GenAI/Links_rmarkdown.Rmd",
     "project_path": "Links_rmarkdown.Rmd",
     "type": "r_markdown",
-    "hash": "3848673324",
+    "hash": "2583937892",
     "contents": "",
     "dirty": false,
     "created": 1693304755152.0,
@@ -13,16 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,143",
-        "scrollLine": "6",
+        "cursorPosition": "24,106",
+        "scrollLine": "15",
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1693305491,
+    "lastKnownWriteTime": 1693532832,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1693305492000,
+    "last_content_update": 1693532832325,
     "read_only": false,
     "read_only_alternatives": []
 }
