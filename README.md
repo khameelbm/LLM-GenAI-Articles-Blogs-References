@@ -3,7 +3,7 @@ Goal: Basic compilation of resources for generative AI and large language models
 
 The primary objective of this page is to compile resources (**blogs**, **research articles** and **videos/courses** related to **LLM** and **Generative AI**). 
 
-# Blogs and General Articles
+## Blogs and General Articles
 
  - [Generative AI and intellectual property](https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property)
 
@@ -17,7 +17,7 @@ The primary objective of this page is to compile resources (**blogs**, **researc
  
  - [Large Language Models Use Cases and Applications](https://vectara.com/large-language-models-use-cases/)
 
-# Research Articles
+## Research Articles
 
 
 # Youtube Courses/Video
