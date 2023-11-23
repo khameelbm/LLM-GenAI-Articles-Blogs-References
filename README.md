@@ -17,9 +17,7 @@ The primary objective of this page is to compile resources (**blogs**, **researc
  
  - [Large Language Models Use Cases and Applications](https://vectara.com/large-language-models-use-cases/)
 
-## Research Articles
 
-
-# Youtube Courses/Video
+## Youtube Courses/Video
 -[1hr Talk Intro to Large Language Models by Andrej Karpthy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
