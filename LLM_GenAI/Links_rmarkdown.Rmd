@@ -37,5 +37,6 @@ The primary objective of this page is to compile resources (**blogs**, **researc
 # Research Articles
 
 
-# Courses
+# Youtube Courses/Video
+-[1hr Talk Intro to Large Language Models by Andrej Karpthy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
