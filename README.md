@@ -17,8 +17,9 @@ The primary objective of this page is to compile resources that relates to **blo
  
  - [Large Language Models Use Cases and Applications](https://vectara.com/large-language-models-use-cases/)
 
- - [A Generative AI Roadmap for Financial Institutions](https://www.bcg.com/publications/2023/a-genai-roadmap-for-fis)
+ - [BCG - A Generative AI Roadmap for Financial Institutions](https://www.bcg.com/publications/2023/a-genai-roadmap-for-fis)
 
+- [The New Yorker - ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 
 ## Youtube Courses/Video
 - [1hr Talk Intro to Large Language Models by Andrej Karpthy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
