@@ -21,5 +21,5 @@ The primary objective of this page is to compile resources that relates to **blo
 ## Youtube Courses/Video
 - [1hr Talk Intro to Large Language Models by Andrej Karpthy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
-## Interesting Research Article/References
+## Selected Research Articles/References
 - [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
