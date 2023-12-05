@@ -1,7 +1,7 @@
 # LLM & GenAI - Articles, Blogs, References
 Goal: Basic compilation of resources for generative AI and large language models.
 
-The primary objective of this page is to compile resources (**blogs**, **research articles** and **videos/courses** related to **LLM** and **Generative AI**). 
+The primary objective of this page is to compile resources that relates to **blogs**, **research articles** and **videos/courses** related to **LLM** and **Generative AI**. 
 
 ## Blogs and General Articles
 
@@ -21,3 +21,5 @@ The primary objective of this page is to compile resources (**blogs**, **researc
 ## Youtube Courses/Video
 -[1hr Talk Intro to Large Language Models by Andrej Karpthy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
+## Interesting Research Article/References
+-[Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
