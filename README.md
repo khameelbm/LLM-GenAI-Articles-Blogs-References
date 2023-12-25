@@ -4,6 +4,7 @@ Goal: Basic compilation of resources for generative AI and large language models
 The primary objective of this page is to compile resources that relates to **blogs**, **research articles** and **videos/courses** related to **LLM** and **Generative AI**. 
 
 ## Blogs and General Articles
+ - [What's the big deal with Generative AI? Is it the future or the present? (from Cohere)](https://txt.cohere.com/generative-ai-future-or-present/?twclid=2-1j2ar5zfcmj9a53h7f327dqv4)
 
  - [Generative AI and intellectual property](https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property)
 
