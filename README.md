@@ -23,7 +23,11 @@ The primary objective of this page is to compile resources that relates to **blo
 - [The New Yorker - ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 
 ## Youtube Courses/Video
+- [Generative AI for Beginners - A Course (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)
+
 - [1hr Talk Intro to Large Language Models by Andrej Karpthy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+
+- [DeepLearning.AI Short Courses on GenAI](https://www.deeplearning.ai/short-courses/)
 
 ## Selected Research Articles/References
 - [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
