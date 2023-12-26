@@ -30,6 +30,8 @@ The primary objective of this page is to compile resources that relates to **blo
 
 - [DeepLearning.AI Short Courses on GenAI](https://www.deeplearning.ai/short-courses/)
 
+- [Getting Started With LLMs (from Kaggle)](https://www.kaggle.com/code/jhoward/getting-started-with-llms/)
+
 ## Selected Research Articles/References
 - [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
 
