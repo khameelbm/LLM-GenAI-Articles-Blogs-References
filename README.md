@@ -6,6 +6,7 @@ The primary objective of this page is to compile resources that relates to **blo
 ## Blogs and General Articles
  - [What's the big deal with Generative AI? Is it the future or the present? (from Cohere)](https://txt.cohere.com/generative-ai-future-or-present/?twclid=2-1j2ar5zfcmj9a53h7f327dqv4)
 
+ 
  - [Generative AI and intellectual property](https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property)
 
  - [What Are Generative AI, Large Language Models, and Foundation Models? By Helen Toner](https://cset.georgetown.edu/article/what-are-generative-ai-large-language-models-and-foundation-models/)
@@ -31,3 +32,5 @@ The primary objective of this page is to compile resources that relates to **blo
 
 ## Selected Research Articles/References
 - [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
+
+- [Ethical and social risks of harm from Language Models (from Deep Mind)](https://arxiv.org/abs/2112.04359)
