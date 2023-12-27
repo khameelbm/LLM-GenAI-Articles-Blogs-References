@@ -11,13 +11,13 @@ The primary objective of this page is to compile resources that relates to **blo
 
  - [What Are Generative AI, Large Language Models, and Foundation Models? By Helen Toner](https://cset.georgetown.edu/article/what-are-generative-ai-large-language-models-and-foundation-models/)
 
- - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+ - [What Is ChatGPT Doing … and Why Does It Work (Stephen Wolfram)?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
  
- - [The History of LLMs](https://www.turingpost.com/p/llmhistory-recap)
+ - [The History of LLMs (turingpost)](https://www.turingpost.com/p/llmhistory-recap)
  
- - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/?utm_source=substack&utm_medium=email)
+ - [Emerging Architectures for LLM Applications (a16z)](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/?utm_source=substack&utm_medium=email)
  
- - [Large Language Models Use Cases and Applications](https://vectara.com/large-language-models-use-cases/)
+ - [Large Language Models Use Cases and Applications (Vectara)](https://vectara.com/large-language-models-use-cases/)
 
  - [BCG - A Generative AI Roadmap for Financial Institutions](https://www.bcg.com/publications/2023/a-genai-roadmap-for-fis)
 
