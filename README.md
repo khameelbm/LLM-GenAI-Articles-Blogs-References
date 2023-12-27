@@ -24,7 +24,7 @@ The primary objective of this page is to compile resources that relates to **blo
 - [The New Yorker - ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 
 
-- [What Are ChatGPT and Its Friends (O'reily's free e-book)](https://ae.oreilly.com/What_Are_ChatGPT_and_Its_Friends)
+- [What Are ChatGPT and Its Friends (O'Reilly's free e-book)](https://ae.oreilly.com/What_Are_ChatGPT_and_Its_Friends)
 
 ## Youtube Courses/Video
 - [Generative AI for Beginners - A Course (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)
