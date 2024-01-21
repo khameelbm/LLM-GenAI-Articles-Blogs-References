@@ -1,5 +1,5 @@
 # LLM & GenAI - Articles, Blogs, References
-Goal: Basic compilation of resources for generative AI and large language models.
+Goal: Basic compilation of (mostly non-technical) articles on  generative AI and large language models.
 
 The primary objective of this page is to compile resources that relates to **blogs**, **research articles** and **videos/courses** related to **LLM** and **Generative AI**. 
 
