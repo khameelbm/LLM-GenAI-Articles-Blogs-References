@@ -26,7 +26,9 @@ The primary objective of this page is to compile resources that relates to **blo
 
 - [What Are ChatGPT and Its Friends (O'Reilly's free e-book)](https://ae.oreilly.com/What_Are_ChatGPT_and_Its_Friends)
 
-## Youtube Courses/Video
+- [How Generative AI Is Transforming Business And Society (OliverWyman)](https://www.oliverwymanforum.com/global-consumer-sentiment/how-will-ai-affect-global-economics.html?utm_source=substack&utm_medium=email)
+
+## Youtube Courses/Video/Visualization
 - [Generative AI for Beginners - A Course (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)
 
 - [1hr Talk Intro to Large Language Models by Andrej Karpthy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
@@ -34,6 +36,10 @@ The primary objective of this page is to compile resources that relates to **blo
 - [DeepLearning.AI Short Courses on GenAI](https://www.deeplearning.ai/short-courses/)
 
 - [Getting Started With LLMs (from Kaggle)](https://www.kaggle.com/code/jhoward/getting-started-with-llms/)
+
+- [How To Automate Your Literature Review ETHICALLY Using ChatGPT (Prof. David Stuckler)](https://www.youtube.com/watch?v=elLdVHALZ88/)
+
+- [LLM Visualization](https://bbycroft.net/llm)
 
 ## Selected Research Articles/References
 - [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
