@@ -26,6 +26,8 @@ The primary objective of this page is to compile resources that relates to **blo
 
 - [What Are ChatGPT and Its Friends (O'Reilly's free e-book)](https://ae.oreilly.com/What_Are_ChatGPT_and_Its_Friends)
 
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
 - [How Generative AI Is Transforming Business And Society (OliverWyman)](https://www.oliverwymanforum.com/global-consumer-sentiment/how-will-ai-affect-global-economics.html?utm_source=substack&utm_medium=email)
 
 ## Youtube Courses/Video/Visualization
