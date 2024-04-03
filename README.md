@@ -33,7 +33,9 @@ The primary objective of this page is to compile resources that relates to **blo
 ## Youtube Courses/Video/Visualization
 - [Generative AI for Beginners - A Course (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)
 
-- [1hr Talk Intro to Large Language Models by Andrej Karpthy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [1hr Talk Intro to Large Language Models by Andrej Karpthy (Youtube)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+
+- [But what is a GPT? Visual intro to Transformers (Youtube)](https://www.youtube.com/watch?v=wjZofJX0v4M)
 
 - [DeepLearning.AI Short Courses on GenAI](https://www.deeplearning.ai/short-courses/)
 
@@ -42,6 +44,9 @@ The primary objective of this page is to compile resources that relates to **blo
 - [How To Automate Your Literature Review ETHICALLY Using ChatGPT (Prof. David Stuckler)](https://www.youtube.com/watch?v=elLdVHALZ88/)
 
 - [LLM Visualization](https://bbycroft.net/llm)
+
+
+- [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 
 ## Selected Research Articles/References
 - [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/abs/2307.11760)
